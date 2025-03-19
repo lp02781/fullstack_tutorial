@@ -6,11 +6,11 @@
 - Next.js frontend with React.js, Javascript, HTML, CSS
 - JSON REST API
 
-## interface_server
+## interface_server 
 - Node.js backend with Javascript
 - Main user interface
 
-## mqtt_server
+## [mqtt_server](https://github.com/lp02781/mqtt_server)
 - Actix backend with Rust
 - Internet of Things nodes 
 - MQTT broker Mosquitto
