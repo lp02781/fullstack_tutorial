@@ -50,11 +50,13 @@ mqtt_actix_container-> localhost:5000
 
 # Installation
 ```
+sudo chmod +x install.sh
 sudo ./install.sh
 ```
 
 # Uninstall
 ```
+sudo chmod +x uninstall.sh
 sudo ./uninstall.sh
 ```
 
