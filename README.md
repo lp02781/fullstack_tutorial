@@ -1,7 +1,7 @@
 # Application
 - Install using single file 
 - CI/CD pipeline Github
-- Image in Docker hub
+- Docker image in [Docker hub](https://hub.docker.com/repositories/lp02781)
 - Multiple docker-compose
 - Next.js frontend with React.js, Javascript, HTML, CSS
 - JSON REST API
