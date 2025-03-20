@@ -1,7 +1,7 @@
 # Application
 - Install using single Ansible 
 - CI/CD pipeline Github
-- Container registry github
+- Image in Docker hub
 - Multiple docker-compose
 - Next.js frontend with React.js, Javascript, HTML, CSS
 - JSON REST API
