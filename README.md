@@ -1,5 +1,5 @@
 # Application
-- Install using single Ansible 
+- Install using single file 
 - CI/CD pipeline Github
 - Image in Docker hub
 - Multiple docker-compose
