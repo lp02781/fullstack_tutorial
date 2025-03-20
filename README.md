@@ -16,7 +16,7 @@
 - MQTT broker Mosquitto
 - MQTT publisher and subscriber 
 ```
-mqtt_node_sim_container-> localhost:1883
+mqtt_node_container-> localhost:1883
 mqtt_mosquitto_container-> localhost:1883
 mqtt_actix_container-> localhost:5000
 ```
@@ -39,7 +39,10 @@ mqtt_actix_container-> localhost:5000
 
 ## database_server
 - Phoenix backend with Elixir
-- PostgresSql database
+- PostgreSql database
+```
+database_postgresql_container-> localhost:7000
+```
 
 ## learning_server
 - Django backend with Python
