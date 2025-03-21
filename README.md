@@ -1,5 +1,5 @@
 # Application
-- Install using single file 
+- Installation using a single file 
 - CI/CD pipeline Github
 - Docker image in [Docker hub](https://hub.docker.com/repositories/lp02781)
 - Multiple docker-compose
