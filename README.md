@@ -6,12 +6,13 @@
 - Next.js frontend with React.js, Javascript, HTML, CSS, iframe
 - JSON REST API
 
-## server_a
+## interface_server
 - Node.js backend with Javascript
 - Main user interface
 - gRPC communication
+- Websocket communication
 
-## server_b
+## node_server
 - Actix backend with Rust
 - ROS2 rust integration
 - Internet of Things nodes 
@@ -22,14 +23,6 @@ mqtt_node_container-> localhost:1883
 mqtt_mosquitto_container-> localhost:1883
 mqtt_actix_container-> localhost:5000
 ```
-
-## websocket_server
-- Ruby on rails backend with Ruby
-- Websocket communication
-
-## grpc_server
-- Fiber backend with Golang 
-- gRPC communication
 
 ## database_server
 - Spring boot backend with Java
