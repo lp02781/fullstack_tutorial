@@ -9,6 +9,7 @@
 ## server_a
 - Node.js backend with Javascript
 - Main user interface
+- gRPC communication
 
 ## server_b
 - Actix backend with Rust
@@ -31,7 +32,7 @@ mqtt_actix_container-> localhost:5000
 - gRPC communication
 
 ## database_server
-- Phoenix backend with Elixir
+- Spring boot backend with Java
 - PostgreSql database
 ```
 database_postgresql_container-> localhost:7000
@@ -40,9 +41,6 @@ database_postgresql_container-> localhost:7000
 ## learning_server
 - Django backend with Python
 - Pytorch deep learning
-
-## diagnostics_server
-- Laravel backend with PHP
 
 # Installation
 ```
