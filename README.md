@@ -12,7 +12,7 @@
 - gRPC communication
 - Websocket communication
 
-## node_server
+## [node_server](https://github.com/lp02781/node_server)
 - Actix backend with Rust
 - ROS2 rust integration
 - Internet of Things nodes 
