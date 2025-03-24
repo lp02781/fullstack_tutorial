@@ -15,13 +15,13 @@ mkdir installation
 cd installation/
 
 echo "${GREEN}Download mqtt server${NC}"
-curl -o compose_mqtt_server.yml https://raw.githubusercontent.com/lp02781/mqtt_server/main/compose_mqtt_server.yml
-curl -o install_mqtt_server.sh https://raw.githubusercontent.com/lp02781/mqtt_server/main/install_mqtt_server.sh
-curl -o restart_mqtt_server.sh https://raw.githubusercontent.com/lp02781/mqtt_server/main/restart_mqtt_server.sh
-curl -o uninstall_mqtt_server.sh https://raw.githubusercontent.com/lp02781/mqtt_server/main/uninstall_mqtt_server.sh
+curl -o compose_node_server.yml https://raw.githubusercontent.com/lp02781/node_server/main/compose_node_server.yml
+curl -o install_node_server.sh https://raw.githubusercontent.com/lp02781/node_server/main/install_node_server.sh
+curl -o restart_node_server.sh https://raw.githubusercontent.com/lp02781/node_server/main/restart_node_server.sh
+curl -o uninstall_node_server.sh https://raw.githubusercontent.com/lp02781/node_server/main/uninstall_node_server.sh
 
 echo "${GREEN}Install all of server${NC}"
 sudo chmod +x *
-sudo ./install_mqtt_server.sh
+sudo ./install_node_server.sh
 
 echo "${GREEN}Finish${NC}"

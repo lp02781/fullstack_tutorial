@@ -19,9 +19,9 @@
 - MQTT broker Mosquitto
 - MQTT publisher and subscriber 
 ```
-mqtt_node_container-> localhost:1883
-mqtt_mosquitto_container-> localhost:1883
-mqtt_actix_container-> localhost:5000
+node_mqtt_container-> localhost:1883
+node_mosquitto_container-> localhost:1883
+node_actix_container-> localhost:5000
 ```
 
 ## database_server

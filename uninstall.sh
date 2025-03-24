@@ -2,7 +2,7 @@ set -e
 set -x
 
 cd installation/
-sudo ./uninstall_mqtt_server.sh
+sudo ./uninstall_node_server.sh
 #sudo
 
 cd ..
