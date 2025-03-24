@@ -1,10 +1,10 @@
 # Application
-- Installation using a single file 
-- CI/CD pipeline Github
-- Docker image in [Docker hub](https://hub.docker.com/repositories/lp02781)
-- Multiple docker-compose
+- Installation using a single file ✅
+- CI/CD pipeline Github ✅
+- Docker image in [Docker hub](https://hub.docker.com/repositories/lp02781) ✅
+- Multiple docker-compose ✅
 - Next.js frontend with React.js, Javascript, HTML, CSS, iframe
-- JSON REST API
+- JSON REST API ✅
 
 ## interface_server
 - Node.js backend with Javascript
@@ -13,11 +13,11 @@
 - Websocket communication
 
 ## [node_server](https://github.com/lp02781/node_server)
-- Actix backend with Rust
-- ROS2 rust integration
-- Internet of Things nodes 
-- MQTT broker Mosquitto
-- MQTT publisher and subscriber 
+- Actix backend with Rust ✅
+- ROS2 rust integration 
+- Internet of Things nodes ✅ 
+- MQTT broker Mosquitto ✅
+- MQTT rust integration ✅
 ```
 node_mqtt_container-> localhost:1883
 node_mosquitto_container-> localhost:1883
