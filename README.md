@@ -4,7 +4,7 @@
 - Docker image in [Docker hub](https://hub.docker.com/repositories/lp02781) ✅
 - Multiple docker-compose ✅
 - Next.js frontend with React.js, Javascript, HTML, CSS, iframe
-- JSON REST API ✅
+- JSON REST API with proto
 
 ## interface_server
 - Node.js backend with Javascript
