@@ -8,14 +8,13 @@
 
 ## [node_server](https://github.com/lp02781/node_server)
 - Actix backend with Rust ✅
-- ROS2 rust integration
-- Iceoryx shared memory integration
+- ROS2 rust communication
+- Iceoryx shared memory communication
 - gRPC communication
 - jsonRPC communication
 - Websocket communication
-- Internet of Things nodes ✅ 
-- MQTT broker Mosquitto ✅
-- MQTT rust integration ✅
+- MQTT IoT rust communication ✅
+- MQTT IoT broker Mosquitto ✅
 - PostgreSql database
 ```
 node_actix_container-> localhost:5000
