@@ -3,18 +3,19 @@
 - CI/CD pipeline Github ✅
 - Docker image in [Docker hub](https://hub.docker.com/repositories/lp02781) ✅
 - Multiple docker-compose ✅
-- Next.js frontend with React.js, Javascript, HTML, CSS, iframe
 - JSON REST API with protobuf
 
 ## interface_server
 - Node.js backend with Javascript
 - Main user interface
+- Next.js frontend with React.js, Javascript, HTML, CSS, iframe
 - gRPC communication
 - jsonRPC communication
 - Websocket communication
 
 ## [node_server](https://github.com/lp02781/node_server)
 - Actix backend with Rust ✅
+- Next.js frontend with React.js, Javascript, HTML, CSS
 - ROS2 rust integration
 - Iceoryx shared memory integration
 - Internet of Things nodes ✅ 
