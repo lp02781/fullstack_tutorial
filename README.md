@@ -10,11 +10,13 @@
 - Node.js backend with Javascript
 - Main user interface
 - gRPC communication
+- jsonRPC communication
 - Websocket communication
 
 ## [node_server](https://github.com/lp02781/node_server)
 - Actix backend with Rust ✅
-- ROS2 rust integration 
+- ROS2 rust integration
+- Iceoryx shared memory integration
 - Internet of Things nodes ✅ 
 - MQTT broker Mosquitto ✅
 - MQTT rust integration ✅
