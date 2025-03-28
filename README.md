@@ -6,13 +6,6 @@
 - JSON REST API with protobuf
 - Next.js frontend with React.js, Javascript, HTML, CSS, iframe
 
-## interface_server
-- Node.js backend with Javascript
-- Main user interface
-- gRPC communication
-- jsonRPC communication
-- Websocket communication
-
 ## [node_server](https://github.com/lp02781/node_server)
 - Actix backend with Rust ✅
 - ROS2 rust integration
@@ -30,6 +23,10 @@ node_mqtt_container-> localhost:1883
 node_mosquitto_container-> localhost:1883
 ```
 
+## interface_server
+- Node.js backend with Javascript
+- Main user interface
+  
 ## database_server
 - Spring boot backend with Java
 - PostgreSql database
