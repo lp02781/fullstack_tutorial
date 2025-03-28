@@ -17,6 +17,9 @@
 - Actix backend with Rust ✅
 - ROS2 rust integration
 - Iceoryx shared memory integration
+- gRPC communication
+- jsonRPC communication
+- Websocket communication
 - Internet of Things nodes ✅ 
 - MQTT broker Mosquitto ✅
 - MQTT rust integration ✅
