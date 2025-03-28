@@ -23,6 +23,7 @@
 - Internet of Things nodes ✅ 
 - MQTT broker Mosquitto ✅
 - MQTT rust integration ✅
+- PostgreSql database
 ```
 node_mqtt_container-> localhost:1883
 node_mosquitto_container-> localhost:1883
